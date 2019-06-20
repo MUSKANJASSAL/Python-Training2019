@@ -29,7 +29,6 @@ print(o2.toCSV())
 print(o3.toCSV())
 
 
-
 # Persistance : Store/Save the data of an Object Permanently somewhere
 # 1. Files
 # 2. Data Base -> SQL / No SQL

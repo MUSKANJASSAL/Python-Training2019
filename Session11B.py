@@ -14,7 +14,7 @@
     Family, DanceClub etc...
     Restaurant(Indian, Chinese)
     protected and private
-    _  __
+    _ __
 """
 
 # Single Level

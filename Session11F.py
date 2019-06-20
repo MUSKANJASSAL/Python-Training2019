@@ -5,6 +5,7 @@ print("=========")
 data = file.read(30)
 print(data)
 
+
 print("=========")
 data = file.read()
 print(data)

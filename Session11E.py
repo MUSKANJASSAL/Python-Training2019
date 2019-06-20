@@ -1,4 +1,5 @@
 file = open("C:/Users/vb/Desktop/Training/Python/Auribises/FILE/My.py","r")
+
 """
 line = file.readline()
 print(line)

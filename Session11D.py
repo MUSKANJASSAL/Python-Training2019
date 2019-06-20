@@ -18,6 +18,7 @@ print(">> Re-Read File")
 fileContents = file.read()    # Re-read
 print(fileContents)
 
+
 # Once a File is Opened and Read, we cannot re-read it !!
 # You need to re-open and re-read
 
