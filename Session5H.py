@@ -1,4 +1,5 @@
 # Dictionary
+
 employees = {"name":"John","eid":101,"email":"john@example.com","salary":300000}
 print(employees, type(employees))
 print(len(employees))

@@ -13,5 +13,5 @@ print("S1 now is:",S1)
 print(S1.intersection(S2))
 print(S1.difference(S2))
 
-#print(S1.symmetric_difference(S2))
+# print(S1.symmetric_difference(S2))
 # Explore -> symmetric difference

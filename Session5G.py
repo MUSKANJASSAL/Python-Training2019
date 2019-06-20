@@ -18,6 +18,6 @@ data = [10, 20, 30]
 data.clear()
 print(data)
 
-#name = "John"
-#name.clear()
-#print(name)
+# name = "John"
+# name.clear()
+# print(name)

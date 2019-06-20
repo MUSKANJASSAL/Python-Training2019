@@ -26,7 +26,8 @@ else:
     print("Not valid")
 
 
-"""email = "john@example.com"
+"""
+email = "john@example.com"
 
 if ("@" in email) and ("." in email):
     print("Valid Email")

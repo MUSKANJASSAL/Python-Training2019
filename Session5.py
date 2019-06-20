@@ -25,6 +25,6 @@ print(quotes)
 print(type(quotes))
 
 #message = "This is Awesome Day. " \
-#         "We will " \
-#         "have fun"
+#          "We will " \
+#          "have fun"
 #print(message)

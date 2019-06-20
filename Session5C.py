@@ -60,7 +60,7 @@ print(data, type(data), len(data))
 salutation ="Mr."
 fname = "George"
 
-name = salutation + fname     # Concatenation
+name = salutation + fname      # Concatenation
 print(name)
 
 #  -----------------------  #
