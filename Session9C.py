@@ -74,6 +74,7 @@ def applyPromoCode(self, promo, final_amount=0):
 
 
 o1 = Order(101, "John", "+91 99999 88888", itemList)
+o2 = Order(102, "Jack", "+91 99999 00000", itemList)
 oRef = o1
 oRef.showDetails()
 oRef.getTotalAmount()

@@ -18,5 +18,5 @@ o1._Order__showOrder()
 print(o1.__dict__)
 print(Order.__dict__)
 
-# Sorting Algorithms : GeekforGeeks
+# Sorting Algorithms: GeekforGeeks
 # Implement Different Algorithms on List

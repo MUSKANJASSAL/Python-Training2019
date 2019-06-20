@@ -20,6 +20,7 @@ class Product:
     def __del__(self):
         print("Product Deleted", self)
 
+
 p1 = Product("Paneer", 200)
 p2 = Product("Dal", 100)
 
