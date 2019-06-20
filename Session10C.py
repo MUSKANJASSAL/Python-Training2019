@@ -1,5 +1,4 @@
 class CA:
-
     num = 100
 
     def __init__(self):

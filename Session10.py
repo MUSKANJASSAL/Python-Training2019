@@ -92,6 +92,7 @@ print()
 lRef.showLEDTvDetails()
 """
 # Common Code is Generalized as Product
+
 class Product:
 
     def __init__(self, pid, name, price, brand):
@@ -99,7 +100,6 @@ class Product:
         self.name = name
         self.price = price
         self.brand = brand
-
 
     def updateProductDetails(self, pid, name, price, brand):
         self.pid = pid
@@ -114,6 +114,7 @@ class Product:
         print(self.price)
         print(self.brand)
         print("=======================")
+
 
 class Shoe(Product): #IS-A Relation | Shoe IS-A Product | Inheritance
 
@@ -130,6 +131,7 @@ class Shoe(Product): #IS-A Relation | Shoe IS-A Product | Inheritance
         print(self.color)
         print(self.size)
         print("=======================")
+
 
 class Mobile(Product):
 
@@ -151,6 +153,7 @@ class Mobile(Product):
         print(self.memory)
         print("=======================")
 
+
 class LEDTv(Product):
 
     def __init__(self,technology, screenSize):
@@ -166,6 +169,7 @@ class LEDTv(Product):
         print(self.technology)
         print(self.screenSize)
         print("=======================")
+
 
 mRef = Mobile(201, "iPhoneX", 60000, "Apple", 4, 128)
 mRef.showProductDetails()

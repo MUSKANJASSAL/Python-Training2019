@@ -7,6 +7,7 @@ class Parent:
     def showDetails(self):
         print("Hello, ",self.fname, self.lname)
 
+
 class Child(Parent):   # Realtionship -> IS-A
     def __init__(self, fname, lname, vehicles, salary):
         Parent.__init__(self, fname, lname)

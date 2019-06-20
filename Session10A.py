@@ -7,6 +7,7 @@ class Parent:
     def showDetails(self):
         print(">> Hello, ",self.fname, self.lname)
 
+
 class Child(Parent): # Relationship -> IS-A
     pass
 
