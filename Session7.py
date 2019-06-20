@@ -5,7 +5,7 @@ def show():
 
     num = 11
     num = num % 3
-    print(">>1. num is:",num)
+    print(">>1. Num is:",num)
 
 show()
 print(">>2. num is:",num)
