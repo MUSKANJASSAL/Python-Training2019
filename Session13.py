@@ -31,13 +31,14 @@ def onClickUpdate():
     cRef.showCustomerDetails()
 
     db = DBHelper()
-    db.saveCustomerInDB(cRef)
+    db.updateCustomerInDB(cRef)
 def onClickDelete():
     print("Button Clicked")
+    cRef = Customer(None, None, None)
     cRef.cid = entryID.get()
 
     db = DBHelper()
-    db.saveCustomerInDB(cid)
+    db.deleteCustomerInDB(cRef.cid)
 
 window = Tk()
 
@@ -84,7 +85,7 @@ window.mainloop()
 
 """
     Phase-I
-    CRUD Operations with GUI
+    CRUD Operations with GUI -> Done
 
     Phase-II
     Loyalty Points : 100 -> 1Point 1Re
