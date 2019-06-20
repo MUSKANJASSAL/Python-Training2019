@@ -1,4 +1,4 @@
-zomatoDiscout = 40
+zomatoDiscout = 30
 print(zomatoDiscout, hex(id(zomatoDiscout)))
 
 print()

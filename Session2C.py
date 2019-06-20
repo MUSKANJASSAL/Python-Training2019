@@ -1,5 +1,6 @@
 dishPrice = 100
 # dishesPrices = 100, 200, 350, 500, 120
+
 dishesPrices = (100, 200, 350, 500, 120)    # Homogeneous
 anotherDishesPrices = (100, 200.22, 350, 500, 120, "100") # Hetrogeneous
 

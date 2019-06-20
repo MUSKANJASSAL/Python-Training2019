@@ -13,4 +13,3 @@ print(jacksAge, hex(id(jacksAge)))
 # print(jenniesAge, hex(id(jenniesAge)))
 
 # PS: johnsAge and jenniesAge are known as Reference Variables
-
