@@ -176,5 +176,4 @@ elif choice == 3:
 elif choice == 4:
     db = DBHelper()
     db.fetchAllCustomers()
-    
 """
