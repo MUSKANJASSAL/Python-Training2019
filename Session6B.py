@@ -4,7 +4,7 @@
 
 def anyName():
     print("Hello")
-    print("This is a Good Day")
+    print("This is a Good Day !")
 
 if __name__=="__main__":
     anyName()

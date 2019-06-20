@@ -4,7 +4,6 @@ def squareOfNumbers(nums):
 
     print("nums is:",nums)
 
-
 numbers = [10, 20, 30, 40, 50]
 squareOfNumbers(numbers)
 print("Numbers is:",numbers)

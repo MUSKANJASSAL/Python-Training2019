@@ -1,4 +1,5 @@
 # Variable Arguments
+
 def addNumbers(*args):       # Tuple
     print(args)
     print(type(args))

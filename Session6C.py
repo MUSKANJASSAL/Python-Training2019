@@ -1,5 +1,6 @@
 # DEFAULT ARGUMENTS IN FUNCTION
 # Right to Left
+
 def addNumbers(num1, num2, num3=0):
     sum = num1 + num2 + num3
     print("Sum is:",sum)
