@@ -33,5 +33,4 @@ p5.showCount()
 
 print()
 
-p5.showNumberOfObjects()
-# Total Product Objects : 3
+p5.showNumberOfObjects()   # Total Product Objects : 3
