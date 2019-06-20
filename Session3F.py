@@ -12,6 +12,7 @@ else:
 """
 
 # Ladder if/else
+
 if total >=100 and total < 200:
     print("Flat20% Off")
 elif total >=200 and total < 500:
@@ -22,6 +23,7 @@ else:
     print("Please Add valuables of upto 100 for Discounts")
 
 # Nested if/else
+
 isInternetConnected = True
 isGPSConnected = False
 

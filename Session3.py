@@ -21,7 +21,7 @@ print(num3)
 
 a = 2
 b = 2
-c = a ** b    # Exponention
+c = a ** b     # Exponention
 print(c)
 
 d = 10

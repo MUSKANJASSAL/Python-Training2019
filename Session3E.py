@@ -11,6 +11,6 @@ print(n1 is not n2)
 
 rollNumbers = [1, 2, 3, 4, 5]
 print(4 in rollNumbers)
-print(40 not in rollNumbers)
+print(30 not in rollNumbers)
 
 # Explore Membership Operators on Tuple, Set and Dictionary
