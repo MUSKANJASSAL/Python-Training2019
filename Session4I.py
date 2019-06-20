@@ -1,5 +1,5 @@
 """names = ["John", "Fionna", "Kia"]
-names[0] = "John Watson"    # Modify the data
+names[0] = "John Watson"     # Modify the data
 print(names)"""
 
 # IMMUTABLE TUPLE

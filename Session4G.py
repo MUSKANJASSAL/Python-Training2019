@@ -2,7 +2,7 @@ languages = ["C++", "AI", "Java", "Python", "JavaScript"]
 print(languages)
 print()
 
-languages.sort()    # Sorting
+languages.sort()      # Sorting
 print(languages)
 print()
 

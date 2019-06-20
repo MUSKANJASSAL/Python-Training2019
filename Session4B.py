@@ -15,8 +15,10 @@ print(students)"""
 # 3. Membership Testing
 print(("Jim" in students))
 
-"""# 4. Indexing                        # Not Applicable
+"""
+# 4. Indexing                        # Not Applicable
 print(students[2])
 
 # 5. Slicing                           # Not Applicable
-print(students[1:4])"""
+print(students[1:4])
+"""

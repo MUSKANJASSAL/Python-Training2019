@@ -1,4 +1,5 @@
-"""cart = []
+"""
+cart = []
 
 foodItem = input("Enter a Food Item of your Choice: ")
 

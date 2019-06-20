@@ -1,5 +1,5 @@
 technologies = ["AI", "Android", "Hadoop", "JEE"]
-technologies[1] = "Mobile Apps"    # Update/Set Operation in List
+technologies[1] = "Mobile Apps"       # Update/Set Operation in List
 print(technologies)
 
 print()

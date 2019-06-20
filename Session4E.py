@@ -11,10 +11,12 @@ print(len(data1))
 print(max(data1))
 print(min(data1))
 
-"""data2 = ["C++", "Java", "Python"]      # Homogeneous
+"""
+data2 = ["C++", "Java", "Python"]      # Homogeneous
 print(len(data2))
 print(max(data2))   # Order sequence of Dictionary/ASCII
-print(min(data2))"""
+print(min(data2))
+"""
 
 # Iteration in List
 print("=======")

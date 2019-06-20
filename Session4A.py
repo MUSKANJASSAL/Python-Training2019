@@ -5,9 +5,9 @@ students = ("John", "Jennie", "Jim", "Jack", "Joe")
 print(students, type(students))
 
 # 1. Concatenation
-print(students + ("Fionna", "George"))
+print(students + ("Fionna", "Henna"))
 print(students)
-"""print(students + ("Henna"))     # Not Applicable
+"""print(students + ("George"))     # Not Applicable
 print(students)"""
 
 # 2. Repetition
