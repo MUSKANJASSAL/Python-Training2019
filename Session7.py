@@ -10,7 +10,6 @@ def show():
 show()
 print(">>2. num is:",num)
 
-
 # Use Case
 cart = []
 
