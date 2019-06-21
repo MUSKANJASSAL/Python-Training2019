@@ -8,6 +8,5 @@ def dataGenerator():
 dg = dataGenerator()
 print(dg)
 
-
 print(next(dg))
 print(next(dg))

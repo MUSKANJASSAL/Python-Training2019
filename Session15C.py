@@ -11,10 +11,10 @@ print(type(h))      # function
 print(hello())
 print(h())
 
-print("*************")
+print("************")
 
 def helloAgain():
-    yield  "Hi"
+    yield "Hi"
     yield "Hello"
     yield "Heya"
     yield "Namaste"
