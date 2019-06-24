@@ -16,7 +16,8 @@ lm1 = lambda n : n%2!=0
 result = filter(lm1, L1)
 print(list(result))
 
-X = [10, 20, 30, 40 ,50, 60]
+#X = [10, 20, 30, 40 ,50, 60]
+X = [10, 20, 30, 40 ,50]
 Y = [11, 22, 33, 44 ,55]
 
 print()

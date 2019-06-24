@@ -12,7 +12,6 @@
     ChatBot
 """
 
-
 class Point:
 
     # self is Reference to Current Object
