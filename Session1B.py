@@ -13,6 +13,9 @@ print(s)
 
 a = "awesome"  # To combine both text and a variable
 print("Python is " + a)
+print()
+print("Python is ",a)
+print()
 
 a = "Python is "    # To add a variable to another variable
 b = "awesome"
