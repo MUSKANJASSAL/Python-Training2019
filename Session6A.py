@@ -22,6 +22,7 @@ print("fun is:",fun)
 print("Please pay: \u20b9",total-fun("FLAT50", total))
 
 del fun
+
 print("Please Pay: \u20b9",total-fun("FLAT50", total))
 print("Please Pay: \u20b9",total-applyPromoCode("FLAT30", total))
 
